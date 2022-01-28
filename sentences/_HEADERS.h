@@ -21,3 +21,5 @@ int amz28Sentence1();
 int amz28Sentence2();
 int rbhmm5Sentence1();
 int rbhmm5Sentence2();
+int ofstk9Sentence1();
+int ofstk9Sentence2();

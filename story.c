@@ -52,7 +52,8 @@ int main( void )
     amz28Sentence2();
 	rbhmm5Sentence1();
 	rbhmm5Sentence2();
-
+	ofstk9Sentence1();
+	ofstk9Sentence2();
 	// Bens sentence should be last.
 
 	storySentence2();
